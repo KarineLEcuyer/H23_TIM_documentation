@@ -4,7 +4,7 @@ Consignes pour le **Travail 1 A** (extrait du portfolio - oeuvre et expérience 
 ## OBJECTIFS POURSUIVIS
 - [ ] Effectuer la recherche documentaire : appliquer une méthode de travail, utiliser des sources d'informations utiles à la recherche, sélectionner les informations à répertorier
 
-- [x] Organiser le matériel multimédia : compiler le matériel, consigner l'information, organiser les données, réviser régulièrement son travail
+- [ ] Organiser le matériel multimédia : compiler le matériel, consigner l'information, organiser les données, réviser régulièrement son travail
 
 - [ ] Transmettre les résultats de la documentation : exploiter les méthodes de transmission de l'insformation, produire des rapports pertinents et explicites, communiquer efficacement ses idées
 
