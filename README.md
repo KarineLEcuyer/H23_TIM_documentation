@@ -58,6 +58,7 @@ Vous devrez créer une fiche qui vous permettra de présenter en détails l'oeuv
 - Le dossier principal sera nommée Portfolio_VOTRENOM_VOTREPRENOM_GROUPE. On y retrouvera la structure de la fiche technique en fichier .md
 - Chacune des oeuvres/expériences aura son dossier nommé selon le nom de l'exposition ou de l'événement suivi du nom de l'oeuvre
 - Dans chacun de ces dossiers, on retrouvera la fiche technique complétée et des sous-dossiers que vous aurez créés pour y stocker:
+          
           - les photographies
           - les croquis
           - les notes prises
