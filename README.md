@@ -34,9 +34,13 @@ Vous devrez créer une fiche qui vous permettra de présenter en détails l'oeuv
 - [ ] Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 - [ ] Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 - [ ] Expérience vécue :
-      - [ ] Description de l'expérience de l'oeuvre par le visiteur, de l'interactivité, des gestes à poser, etc.
-      - [ ] Ce qui vous a plu, vous a donné des idées :heart: et justifications
-      - [ ] Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement :thinking: et justifications
+     
+     - [ ] Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+     
+     - [ ] :heart: Ce qui vous a plu, vous a donné des idées et justifications
+      
+     - [ ] :thinking: Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+ 
 - [ ] Références 
 
 **Photographies et croquis à intégrer**
@@ -52,6 +56,7 @@ Vous devrez créer une fiche qui vous permettra de présenter en détails l'oeuv
 - Chacun des dossiers créés devra comporter un fichier README.md qui indique son nom et son contenu
 - Le dossier principal sera nommée Portfolio_VOTRENOM_VOTREPRÉNOM
 - Chacune des oeuvres/expériences aura son dossier nommé selon le nom de l'exposition ou de l'événement suivi du nom de l'oeuvre
-- Dans chacun des dossiers, un sous-dossier sera créé pour y stocker les médias.
+- Dans chacun des dossiers, un sous-dossier sera créé pour y stocker les médias
 - Tous les noms de fichiers devront être clairs, sans espaces, sans accents et une constance devra être observée dans le nommage
-- 
+
+
