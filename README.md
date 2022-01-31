@@ -54,13 +54,13 @@ Vous devrez créer une fiche qui vous permettra de présenter en détails l'oeuv
 
 **Organisation du *repository***
 - Chacun des dossiers créés devra comporter un fichier README.md qui indique son nom et son contenu
-- Le dossier principal sera nommée Portfolio_VOTRENOM_VOTREPRENOM_GROUPE
+- Le dossier principal sera nommée Portfolio_VOTRENOM_VOTREPRENOM_GROUPE. On y retrouvera la structure de la fiche technique en fichier .md
 - Chacune des oeuvres/expériences aura son dossier nommé selon le nom de l'exposition ou de l'événement suivi du nom de l'oeuvre
-- Dans chacun de ces dossiers, des sous-dossiers seront créés pour y stocker:
+- Dans chacun de ces dossiers, on retrouvera la fiche technique complétée et des sous-dossiers que vous aurez créés pour y stocker:
           - les photographies
           - les croquis
           - les notes prises
-          - 
+          - (tout autre élément utile)
 - Tous les noms de fichiers devront être clairs, sans espaces, sans accents et une constance devra être observée dans le nommage
 
 ## REMISE :
@@ -76,11 +76,12 @@ Vous devrez créer une fiche qui vous permettra de présenter en détails l'oeuv
 - À remettre au **DÉBUT DU COURS SEMAINE 13** (tout *commit* effectué après le moment indiqué pour la remise sera interprété comme un retard)
 
 ## CRITÈRES D'ÉVALUATION
-- Informations répertoriées
+- Exhaustité des nformations répertoriées
 - Organisation des données
 - Présentation de l'information
 - Communication des idées
 
 ## RÉFÉRENCES UTILES
-- Projets de l'artiste Rafael Lozano-Hemmer (https://www.lozano-hemmer.com/projects.php) : la majorité présente le manuel de l'oeuvre
+- Projets de l'artiste Rafael Lozano-Hemmer (https://www.lozano-hemmer.com/projects.php) : la majorité présente le manuel de l'oeuvre (ex. : https://www.lozano-hemmer.com/sway.php)
+- *cheatsheet* 
 - 
