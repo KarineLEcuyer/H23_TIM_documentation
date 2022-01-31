@@ -92,5 +92,5 @@ Vous devrez créer une fiche qui vous permettra de présenter en détails l'oeuv
 ### *Markdown*
 - [*Markdown Cheat Sheet*](https://www.markdownguide.org/cheat-sheet/)
 - [*Basic writing and formatting syntax*](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- Cone, Mark, *The Markdown Guide*, 2022, 60 p. --> disponible dans le dossier documents_reference de l'équipe TEAMS du cours. ![couverture_guide_markdown](H22_TIM_portfolio_consignes/medias/CONE_Markdown_Guide_couverture.png)
+- Cone, Mark, *The Markdown Guide*, 2022, 60 p. --> disponible dans le dossier documents_reference de l'équipe TEAMS du cours. ![couverture_guide_markdown](medias/CONE_Markdown_Guide_couverture.png)
 - 
