@@ -83,6 +83,13 @@ Vous devrez créer une fiche qui vous permettra de présenter en détails l'oeuv
 - Communication des idées
 
 ## RÉFÉRENCES UTILES
-- Projets de l'artiste Rafael Lozano-Hemmer (https://www.lozano-hemmer.com/projects.php) : la majorité présente le manuel de l'oeuvre (ex. : https://www.lozano-hemmer.com/sway.php)
-- *cheatsheet* 
-- 
+### Exemples de documentation
+- [Projets de l'artiste Rafael Lozano-Hemmer](https://www.lozano-hemmer.com/projects.php) : la majorité présente le [manuel de l'oeuvre](https://www.lozano-hemmer.com/sway.php/) 
+- [Exemples d'utilisation de GitHub par les finissant.e.s de 2021](https://tim-montmorency.com/2021/)
+- [Exemple de schéma de branchement par Guillaume Arsenault](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fgitlab.com%2Fgllmar%2Fdistributed-memories%2F-%2Fwikis%2Fresidences%2F2021-gl-petitesalle%2Fetude%2Fconnectique%2Fdistributed_memories-residence_nov_2021.drawio.pdf&clen=92892&chunk=true)
+- [Exemple de documentation pour un bouton d'interactivité par Guillaume Arsenault](https://gitlab.com/gllmar/dm-ethbtn)
+- [Exemple de fiche technique de l'oeuvre LIMINAL](http://patenteux.com/wp/portfolio/liminal-tech-sheet-en/)
+### *Markdown*
+- [*Markdown Cheat Sheet*](https://www.markdownguide.org/cheat-sheet/)
+- [*Basic writing and formatting syntax*](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- Cone, Mark, *The Markdown Guide*, 2022, 60 p. --> disponible dans le dossier documents_reference de l'équipe TEAMS du cours.
