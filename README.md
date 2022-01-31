@@ -14,6 +14,7 @@ Au fil de la session, vous ferez l'expérience de plusieurs oeuvres et productio
 ## CE QUI EST ATTENDU
 **Documenter les oeuvres et expériences suivantes :**
 - [ ] 1 oeuvre de la BIAN (visite de groupe à Arsenal -> 9 ou 10 février) **= travail 1 A** 
+- [ ] Acqua Alta (oeuvre en réalité augmentée expérimentée en classe)
 - [ ] 1 des créations des étudiant.e.s TIM de 6e session
 - [ ] 1 oeuvre expérimentée lors d'une visite individuelle hors classe (sujet de la communucation orale)
 - [ ] 1 expérience lors de la semaine des arts
