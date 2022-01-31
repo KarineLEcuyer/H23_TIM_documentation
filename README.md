@@ -54,9 +54,33 @@ Vous devrez créer une fiche qui vous permettra de présenter en détails l'oeuv
 
 **Organisation du *repository***
 - Chacun des dossiers créés devra comporter un fichier README.md qui indique son nom et son contenu
-- Le dossier principal sera nommée Portfolio_VOTRENOM_VOTREPRÉNOM
+- Le dossier principal sera nommée Portfolio_VOTRENOM_VOTREPRENOM_GROUPE
 - Chacune des oeuvres/expériences aura son dossier nommé selon le nom de l'exposition ou de l'événement suivi du nom de l'oeuvre
-- Dans chacun des dossiers, un sous-dossier sera créé pour y stocker les médias
+- Dans chacun de ces dossiers, des sous-dossiers seront créés pour y stocker:
+          - les photographies
+          - les croquis
+          - les notes prises
+          - 
 - Tous les noms de fichiers devront être clairs, sans espaces, sans accents et une constance devra être observée dans le nommage
 
-**À remettre : 
+## REMISE :
+
+**Travail 1A** : extrait du portfolio - oeuvre et expérience de la **BIAN**  **15%**
+- [ ] Remettre le lien vers le portfolio complet (détails de remise à venir)
+- [ ] L'évaluation portera sur le dossier BIAN_oeuvre_retenue
+- À remettre au **DÉBUT DU COURS SEMAINE 5** (tout *commit* effectué après le moment indiqué pour la remise sera interprété comme un retard)
+
+**Travail 1B** : Portfolio d'oeuvres et d'expériences multimédias **30%**
+- [ ] Remettre le lien vers le portfolio complet (détails de remise à venir)
+- [ ] L'évaluation portera sur l'ensemble du portfolio, y compris la version révisée du Travail 1A
+- À remettre au **DÉBUT DU COURS SEMAINE 13** (tout *commit* effectué après le moment indiqué pour la remise sera interprété comme un retard)
+
+## CRITÈRES D'ÉVALUATION
+- Informations répertoriées
+- Organisation des données
+- Présentation de l'information
+- Communication des idées
+
+## RÉFÉRENCES UTILES
+- Projets de l'artiste Rafael Lozano-Hemmer (https://www.lozano-hemmer.com/projects.php) : la majorité présente le manuel de l'oeuvre
+- 
