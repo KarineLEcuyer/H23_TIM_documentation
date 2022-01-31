@@ -4,4 +4,4 @@
 2. Sélectionner *Create New File* ![New_file](information_complementaire/medias/GitHub_add_file.png)
 3. Taper le nom souhaité pour le dossier suivi d'une barre oblique /
 4. Créer un fichier README.md pour décrire le contenu du dossier ![dossier](information_complementaire/medias/GitHub_new_file_readme.png)
-5. Ajouter les fichiers voulus dans le dossier créé
+6. Ajouter les fichiers voulus dans le dossier créé
