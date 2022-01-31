@@ -54,7 +54,7 @@ Vous devrez créer une fiche qui vous permettra de présenter en détails l'oeuv
 - [ ] possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
 
 **Organisation du *repository***
-- Chacun des dossiers créés devra comporter un fichier README.md qui indique son nom et son contenu
+- Chacun des dossiers créés devra comporter un fichier README.md qui indique son nom et son contenu ([procédure ici](https://github.com/KarineLEcuyer/H22_TIM_portfolio_consignes/blob/main/ajout_dossier.md))
 - Le dossier principal sera nommée Portfolio_VOTRENOM_VOTREPRENOM_GROUPE. On y retrouvera la structure de la fiche technique en fichier .md
 - Chacune des oeuvres/expériences aura son dossier nommé selon le nom de l'exposition ou de l'événement suivi du nom de l'oeuvre
 - Dans chacun de ces dossiers, on retrouvera la fiche technique complétée et des sous-dossiers que vous aurez créés pour y stocker:
