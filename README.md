@@ -37,7 +37,7 @@ Vous devrez créer une fiche qui vous permettra de présenter en détails l'oeuv
       - [ ] Description de l'expérience de l'oeuvre par le visiteur, de l'interactivité, des gestes à poser, etc.
       - [ ] Ce qui vous a plu, vous a donné des idées :heart: et justifications
       - [ ] Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement :thinking: et justifications
-- [ ] Références
+- [ ] Références 
 
 **Photographies et croquis à intégrer**
 - [ ] photographie de l'oeuvre ou du dispositif dans son ensemble
@@ -47,3 +47,11 @@ Vous devrez créer une fiche qui vous permettra de présenter en détails l'oeuv
 - [ ] autoportrait (photo) de vous avec l'oeuvre
 - [ ] croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
 - [ ] possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
+
+**Organisation du *repository*
+- Chacun des dossiers créés devra comporter un fichier README.md qui indique son nom et son contenu
+- Le dossier principal sera nommée Portfolio_VOTRENOM_VOTREPRÉNOM
+- Chacune des oeuvres/expériences aura son dossier nommé selon le nom de l'exposition ou de l'événement suivi du nom de l'oeuvre
+- Dans chacun des dossiers, un sous-dossier sera créé pour y stocker les médias.
+- Tous les noms de fichiers devront être clairs, sans espaces, sans accents et une constance devra être observée dans le nommage
+- 
