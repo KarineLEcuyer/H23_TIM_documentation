@@ -5,3 +5,4 @@
 4. Taper le nom souhaité pour le dossier suivi d'une barre oblique /
 5. Créer un fichier README.md pour décrire le contenu du dossier ![dossier](information_complementaire/medias/GitHub_new_file_readme.png)
 6. Ajouter les fichiers voulus dans le dossier créé
+
