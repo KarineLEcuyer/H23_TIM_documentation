@@ -86,7 +86,8 @@ Vous devrez créer une fiche qui vous permettra de présenter en détails l'oeuv
 ## RÉFÉRENCES UTILES
 ### Exemples de documentation
 - [Projets de l'artiste Rafael Lozano-Hemmer](https://www.lozano-hemmer.com/projects.php) : la majorité présente le [manuel de l'oeuvre](https://www.lozano-hemmer.com/sway.php/) 
-- [Exemples d'utilisation de GitHub par les finissant.e.s de 2021](https://tim-montmorency.com/2021/)
+- [Exemples d'utilisation de GitHub par les finissant.e.s TIM de 2021](https://tim-montmorency.com/2021/)
+- [Exemples d'utilisation de GitHub *en cours* par les finissant.e.s TIM de 2022](https://tim-montmorency.com/2022/)
 - [Exemple de documentation pour un bouton d'interactivité par Guillaume Arsenault](https://gitlab.com/gllmar/dm-ethbtn)
 - [Exemple de fiche technique de l'oeuvre LIMINAL](http://patenteux.com/wp/portfolio/liminal-tech-sheet-en/)
 ### *Markdown*
