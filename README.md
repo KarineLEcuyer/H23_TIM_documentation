@@ -78,7 +78,7 @@ Vous devrez créer une fiche qui vous permettra de présenter en détails l'oeuv
 - À remettre au **DÉBUT DU COURS SEMAINE 13** (tout *commit* effectué après le moment indiqué pour la remise sera interprété comme un retard)
 
 ## CRITÈRES D'ÉVALUATION - GRILLE D'ÉVALUATION À VENIR
-- Exhaustivité des nformations répertoriées
+- Exhaustivité des informations répertoriées
 - Organisation des données
 - Présentation de l'information
 - Communication des idées
