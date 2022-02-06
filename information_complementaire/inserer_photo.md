@@ -4,4 +4,7 @@
 3. Allez au fichier photo que vous souhaitez insérer dans le fichier .md.
 4. Surlignez avec votre souris le chemin du fichier photo et copiez ce texte (Ctrl+C)
 5. ![image sélection nom du fichier](medias/GitHub_selection_fichier_image.png)
-Dans votre fichier .md, voici la syntaxe qui vous permet d'intégrer votre fichier image :
+6. Dans votre fichier .md, voici la syntaxe qui vous permet d'intégrer votre fichier image : ![image syntaxe insertion fichier image](medias/GitHub_syntaxe_inserer_image.png)
+Le texte entre crochet est un texte qui décrit ce que vous insérez. Ce qui se trouve entre parenthèse est le chemin que vous aviez copié et que vous collez (Ctrl+V)
+
+Vous avez maintenant intégrer votre fichier de la bonne façon !
