@@ -1,4 +1,4 @@
-# CONSIGNES TRAVAIL 2 
+# CONSIGNES TRAVAIL 2 (20%)
 Consignes pour le **Travail 2** (Rapport sur les projets en création des finissant.e.s TIM) 
 
 ## OBJECTIFS POURSUIVIS
@@ -21,25 +21,34 @@ Vous devrez créer un fichier .md qui vous permettra de présenter pour chacun d
 - l'installation en cours dans les studios (photos à l'appui)
 - le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
 - ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
+- 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet (voir la [grille de cours du programme](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)
 
 Vous devrez également présenter, parmi tous les projets :
 - une technique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas
 - une composante technologique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas
 *pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues*
 
-De plus, chaque membre de l'équipe devra présenter, dans un fichier .md individuel (dans le *repository* d'équipe :
-- les projets ordonnés selon votre préférence actuelle (1 = votre projet préféré)
-- ce que vous croyez que vous ressentirez en expériementant chacune des installations
-- le rôle que vous croyez que vous jouerez dans un tel projet
-Vous devrez justifiez chacune de vos réponses (le **pourquoi**)
+De plus, chaque membre de l'équipe devra présenter, dans un fichier .md individuel (dans le *repository* d'équipe) :
+- les projets ordonnés selon votre préférence actuelle (1 = votre projet préféré), avec justification
+- ce que vous croyez que vous ressentirez en expériementant chacune des installations, avec justification
+- le rôle que vous croyez que vous jouerez dans un tel projet, lorsque vous serez en 3e année, avec justification
+
+**Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies lorsque cela est pertinent et en créant des fichiers agréables à lire, dans lesquels on repère facilement l'information**
+
+## CRITÈRES D'ÉVALUATION 
+- Exhaustivité des informations répertoriées 
+- Organisation des données
+- Présentation de l'information
+- Communication des idées
+
+La grille d'évaluation est disponible dans l'équipe TEAMS (dossiers consignes_travaux)
 
 Les **fichiers** et le **repository** devront être **bien organisés**, les **informations** présentées devront être **claires**, la **qualité de la langue** devra être **soignée** et les différents **éléments** intégrés devront être **bien nommés et classés**.
-
-
 
 ## REMISE : 
 **FIN DU COURS SEMAINE 6**
 En remettant le lien URL vers le *repository* dans le fichier Excel (équipe TEAMS)
+
 Tout *commit* effectué après le moment indiqué pour la remise du travail **ne sera pas** pris en considération pour l'évaluation
 
 ## EXTRAITS DE L'APPEL DE PROJET DU COURS *EXPÉRIENCE MULTIMÉDIA INTERACTIVE*
