@@ -52,7 +52,7 @@ En remettant le lien URL vers le *repository* dans le fichier Excel (équipe TEA
 Tout *commit* effectué après le moment indiqué pour la remise du travail **ne sera pas** pris en considération pour l'évaluation
 
 ## EXTRAITS DE L'APPEL DE PROJET DU COURS *EXPÉRIENCE MULTIMÉDIA INTERACTIVE*
-PAR GUILLAUME ARSENAULT ET DARYL HUBERT, PROFESSEURS
+PAR GUILLAUME ARSENEAULT ET DARYL HUBERT, PROFESSEURS
 ### MISE EN CONTEXTE
 Le cours synthèse Expérience multimédia interactive vise la création et la présentation d’un projet multimédia interactif réalisé en équipe.
 
