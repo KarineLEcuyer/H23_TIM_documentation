@@ -6,87 +6,53 @@ Consignes pour le **Travail 2** (Rapport sur les projets en création des finiss
 - [ ] Organiser le matériel multimédia : compiler le matériel, consigner l'information, organiser les données, réviser régulièrement son travail
 - [ ] Transmettre les résultats de la documentation : exploiter les méthodes de transmission de l'insformation, produire des rapports pertinents et explicites, communiquer efficacement ses idées
 
-## LE RAPPORT
-Au fil de la session, vous ferez l'expérience de plusieurs oeuvres et productions multimédias. Votre portfolio, organisé en «repository GitHub» rassemblera les informations sur ces oeuvres et productions et sur votre expérience de celles-ci. À chacune des expériences, vous devrez prendre des notes, faire des photographies et réaliser des croquis. La réalisation de ce portfolio est une introduction à la production de documentation plus complète de vos futures créations mutlimédias. Ce portfolio pourra vous servir de «réservoir d'inspirations». 
+## TRAVAIL 2 (ÉTUDIANT.E.S DE 1ÈRE) : CE QUI EST ATTENDU
+**Documenter les projets en création des 3e année grâce :**
+- [ ] au visionnement de la présentation de leur projet en création 
+- [ ] à la visite des studios
+- [ ] à la rencontre avec des étudiant.e.s et professeurs impliqué.e.s dans le projet
 
-## CE QUI EST ATTENDU
-**Documenter les projets en création des 3e année grâce à :**
-- [ ] la présentation de leur projet en création (visionnement des capsules vidéos produites)
-- [ ] la visite des studios
-- [ ] la rencontre avec des étudiant.e.s et professeurs impliqué.e.s dans le projet
+**Créer, en équipe de 3, un *repository* qui nous permet de découvrir les projets en création**  
+Vous devrez créer un fichier .md qui vous permettra de présenter pour chacun des projets :
+- le titre 
+- les créateurs et créatrices
+- la façon dont le thème du *temps* est exploité dans la création
+- l'ambiance 
+- l'installation en cours dans les studios (photos à l'appui)
+- le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
+- ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
 
-**Créer une fiche technique pour chacune des oeuvres/expériences** 
-Vous devrez créer une fiche qui vous permettra de présenter en détails l'oeuvre ou le dispositif multimédia, ainsi que votre expérience. La **fiche** devra être **bien organisée**, les **informations** présentées devront être **claires**, la **qualité de la langue** devra être **soignée** et les différents **éléments** intégrés devront être **bien nommés et classés**.
+Vous devrez également présenter, parmi tous les projets :
+- une technique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas
+- une composante technologique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas
+*pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues*
 
-**Chacune des fiches complétées nous permettra de connaitre :**
-- [ ] Titre de l'oeuvre ou de la réalisation
-- [ ] Nom de l'artiste ou de la firme
-- [ ] Année de réalisation
-- [ ] Nom de l'exposition ou de l'événement
-- [ ] Lieu de mise en exposition
-- [ ] Date de votre visite
-- [ ] Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en **citant bien sa source**) 
-- [ ] Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
-- [ ] Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
-- [ ] Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
-- [ ] Expérience vécue :
-     
-     - [ ] Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
-     
-     - [ ] :heart: Ce qui vous a plu, vous a donné des idées et justifications
-      
-     - [ ] :thinking: Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
- 
-- [ ] Références 
+De plus, chaque membre de l'équipe devra présenter, dans un fichier .md individuel (dans le *repository* d'équipe :
+- les projets ordonnés selon votre préférence actuelle (1 = votre projet préféré)
+- ce que vous croyez que vous ressentirez en expériementant chacune des installations
+- le rôle que vous croyez que vous jouerez dans un tel projet
+Vous devrez justifiez chacune de vos réponses (le **pourquoi**)
 
-**Photographies et croquis à intégrer**
-- [ ] photographie de l'oeuvre ou du dispositif dans son ensemble
-- [ ] photographies des composantes de l'oeuvre
-- [ ] photographies des éléments nécessaires à sa mise en espace
-- [ ] photographie du cartel ou du panneau explicatif
-- [ ] autoportrait (photo) de vous avec l'oeuvre
-- [ ] croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
-- [ ] possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
+Les **fichiers** et le **repository** devront être **bien organisés**, les **informations** présentées devront être **claires**, la **qualité de la langue** devra être **soignée** et les différents **éléments** intégrés devront être **bien nommés et classés**.
 
-**Organisation du *repository***
-- Chacun des dossiers créés devra comporter un fichier README.md qui indique son nom et son contenu ([procédure ici](information_complementaire/creation_dossier.md))
-- Le dossier principal sera nommée Portfolio_VOTRENOM_VOTREPRENOM_GROUPE. On y retrouvera la structure de la fiche technique en fichier .md
-- Chacune des oeuvres/expériences aura son dossier nommé selon le nom de l'exposition ou de l'événement suivi du nom de l'oeuvre
-- Dans chacun de ces dossiers, on retrouvera la fiche technique complétée et des sous-dossiers que vous aurez créés pour y stocker:
-          
-          - les photographies
-          - les croquis
-          - les notes prises
-          - (tout autre élément utile)
-- Tous les noms de fichiers devront être clairs, sans espaces, sans accents et une constance devra être observée dans le nommage
 
-## REMISE :
 
-**Travail 1A** : extrait du portfolio - oeuvre et expérience de la **BIAN**  **15%**
-- [ ] Remettre le lien vers le portfolio complet (détails de remise à venir)
-- [ ] L'évaluation portera sur le dossier BIAN_oeuvre_retenue
-- À remettre au **DÉBUT DU COURS SEMAINE 5** (tout *commit* effectué après le moment indiqué pour la remise sera interprété comme un retard)
+## REMISE : 
+**FIN DU COURS SEMAINE 6**
+En remettant le lien URL vers le *repository* dans le fichier Excel (équipe TEAMS)
+Tout *commit* effectué après le moment indiqué pour la remise du travail **ne sera pas** pris en considération pour l'évaluation
 
-**Travail 1B** : Portfolio d'oeuvres et d'expériences multimédias **30%**
-- [ ] Remettre le lien vers le portfolio complet (détails de remise à venir)
-- [ ] L'évaluation portera sur l'ensemble du portfolio, y compris la version révisée du Travail 1A
-- À remettre au **DÉBUT DU COURS SEMAINE 13** (tout *commit* effectué après le moment indiqué pour la remise sera interprété comme un retard)
+## EXTRAITS DE L'APPEL DE PROJET DU COURS *EXPÉRIENCE MULTIMÉDIA INTERACTIVE*
+PAR GUILLAUME ARSENAULT ET DARYL HUBERT, PROFESSEURS
+### MISE EN CONTEXTE
+Le cours synthèse Expérience multimédia interactive vise la création et la présentation d’un projet multimédia interactif réalisé en équipe.
 
-## CRITÈRES D'ÉVALUATION - GRILLE D'ÉVALUATION : voir fichier excel dans équipe TEAMS (dossier consignes_travaux)
-- Exhaustivité des informations répertoriées
-- Organisation des données
-- Présentation de l'information
-- Communication des idées
+L’étudiante ou l’étudiant collaborera à l’élaboration d’un projet multimédia interactif, et ce de la conception jusqu’à la présentation du produit. Il aura l’occasion de mettre en pratique toutes les compétences acquises au cours de sa formation technique, notamment en programmation, en conception graphique, vidéo et sonore, de même qu’en gestion et en conception de projet. Ce cours est porteur de l’un des deux volets de l’épreuve synthèse du programme, soit la réalisation d’une   expérience interactive.
 
-## RÉFÉRENCES UTILES
-### Exemples de documentation
-- [Projets de l'artiste Rafael Lozano-Hemmer](https://www.lozano-hemmer.com/projects.php) : la majorité présente le [manuel de l'oeuvre](https://www.lozano-hemmer.com/sway.php/) 
-- [Exemples d'utilisation de GitHub par les finissant.e.s TIM de 2021](https://tim-montmorency.com/2021/)
-- [Exemples d'utilisation de GitHub *en cours* par les finissant.e.s TIM de 2022](https://tim-montmorency.com/2022/)
-- [Exemple de documentation pour un bouton d'interactivité par Guillaume Arsenault](https://gitlab.com/gllmar/dm-ethbtn)
-- [Exemple de fiche technique de l'oeuvre LIMINAL](http://patenteux.com/wp/portfolio/liminal-tech-sheet-en/)
-### *Markdown*
-- [*Markdown Cheat Sheet*](https://www.markdownguide.org/cheat-sheet/)
-- [*Basic writing and formatting syntax*](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- Cone, Mark, *The Markdown Guide*, 2022, 60 p. --> disponible dans le dossier documents_reference de l'équipe TEAMS du cours. ![couverture_guide_markdown](information_complementaire/medias/CONE_Markdown_Guide_couverture.png)
+L’étudiant devra ainsi contribuer à la réalisation d’une expérience interactive multimédia en équipe et produire un rapport visant à rendre compte de l’ensemble des étapes de la réalisation du produit et de son processus.
+### THÉMATIQUE
+TEMPS
+### TÂCHES
+Conceptualisation et réalisation en équipe d’une installation, d’un parcours ou d’une performance multimédia interactive ancrée dans un environnement physique
+
 
