@@ -1,7 +1,7 @@
 ## Commentaires d'évaluation du TP1A
 À considérer pour améliorer les prochains travaux
 
-- **RELIRE LA CONSIGNE POUR S'ASSURER DE S'Y CONFORMER** (pour les prochains travaux : tenir compte des commentaires d'évaluation du TP1A)
+- **RELIRE LA CONSIGNE POUR S'ASSURER DE S'Y CONFORMER** (pour les prochains travaux : tenir compte des commentaires individualisés d'évaluation du TP1A - voir grille Excel transmise par clavardage Teams)
 - **Se conformer aux règles de nommage**
 
 - Bien relire pour corriger les fautes, soigner la **qualité de la langue** 
