@@ -4,7 +4,7 @@
 - **RELIRE LA CONSIGNE POUR S'ASSURER DE S'Y CONFORMER** (pour les prochains travaux : tenir compte des commentaires individualisés d'évaluation du TP1A - voir grille Excel transmise par clavardage Teams)
 - **Se conformer aux règles de nommage**
 
-- Bien relire pour corriger les fautes, soigner la **qualité de la langue** 
+- Bien relire pour corriger les fautes, soigner la **qualité de la langue** (NB : lorsque vous écrivez *il fessait* ou *en fessant*, il s'agit du verbe *fesser*. Très différent du verbe *faire* que vous vouliez sans doute employer et qui s'écrirait plutôt *il faisait* ou *en faisant*)
 - Personnaliser les **titres** de la fiche
 - Compléter les **fichiers README.md** pour bien décrire ce que le dossier contient (ex : énumérer les expériences documentées)
 - **Référence** :  indiquer le type de référence et insérer un hyperlien pour plus de clarté (ex. : [Site de l'artiste Louis-Philippe Rondeau](http://patenteux.com/wp/))
