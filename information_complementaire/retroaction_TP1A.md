@@ -3,6 +3,7 @@
 
 - **RELIRE LA CONSIGNE POUR S'ASSURER DE S'Y CONFORMER** (pour les prochains travaux : tenir compte des commentaires individualisés d'évaluation du TP1A - voir grille Excel transmise par clavardage Teams)
 - **Se conformer aux règles de nommage**
+- Bien **structurer** le *repository*
 
 - Bien relire pour corriger les fautes, soigner la **qualité de la langue** (NB : lorsque vous écrivez *il fessait* ou *en fessant*, il s'agit du verbe *fesser*. Très différent du verbe *faire* que vous vouliez sans doute employer et qui s'écrirait plutôt *il faisait* ou *en faisant*)
 - Personnaliser les **titres** de la fiche
