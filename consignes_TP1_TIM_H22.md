@@ -18,7 +18,7 @@ Au fil de la session, vous ferez l'expérience de plusieurs oeuvres et productio
 - [ ] 1 des créations des étudiant.e.s TIM de 6e session
 - [ ] 1 oeuvre expérimentée lors d'une visite individuelle hors classe (sujet de la communucation orale)
 - [ ] 1 expérience lors de la semaine des arts
-- [ ] autre exposition/oeuvre (détails à venir)
+- [ ] autre exposition/oeuvre (détails à venir) -> 9 ou 10 mars Exposition : **Béchard Hudon - Configurations du sensible (Salle Alfred-Pellan)**
 
 **Créer une fiche technique pour chacune des oeuvres/expériences** 
 Vous devrez créer une fiche qui vous permettra de présenter en détails l'oeuvre ou le dispositif multimédia, ainsi que votre expérience. La **fiche** devra être **bien organisée**, les **informations** présentées devront être **claires**, la **qualité de la langue** devra être **soignée** et les différents **éléments** intégrés devront être **bien nommés et classés**.
