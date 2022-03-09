@@ -46,7 +46,7 @@ La grille d'évaluation est disponible dans l'équipe TEAMS (dossiers consignes_
 Les **fichiers** et le **repository** devront être **bien organisés**, les **informations** présentées devront être **claires**, la **qualité de la langue** devra être **soignée** et les différents **éléments** intégrés devront être **bien nommés et classés**.
 
 ## REMISE : 
-**FIN DU COURS SEMAINE 6**
+~~**FIN DU COURS SEMAINE 6**~~ **AVANT MINUIT LE VENDREDI 11 MARS 2022**
 En remettant le lien URL vers le *repository* dans le fichier Excel (équipe TEAMS)
 
 Tout *commit* effectué après le moment indiqué pour la remise du travail **ne sera pas** pris en considération pour l'évaluation
