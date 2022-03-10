@@ -23,3 +23,6 @@
 - **Décrivez pour que tout.e lecteur.trice comprenne, même sans avoir vu l'oeuvre.**
 
 - **Expérience vécue** : utiliser votre connaissance des types d'oeuvre (immersive, interactive, contemplative) pour nommer justement
+
+### Justifications (le *pourquoi*)
+- Les justitifications que nous cherchons dans les travaux réalisés dans le cours doivent appuyer votre opinion. Il s'agit donc, (et je paraphrase ici [AlloProf](https://www.alloprof.qc.ca/)) tout d’abord, de prouver ce que vous avancez à l’aide d’arguments et à l’aide de preuves concrètes. Il faut éviter de tomber dans le jugement de valeur et penser à des « arguments valables et vérifiables ».
