@@ -30,7 +30,7 @@ Partager à vos collègues de classe l'oeuvre ou le dispositif multimdia que vou
 - [ ] Rappel des aspects présentés
 - [ ] Ouverture : élément inspirant retenu parmi toutes les oeuvres et expériences de la session
 
-## CRITÈRES D'ÉVALUATION - GRILLE D'ÉVALUATION : voir fichier excel dans équipe TEAMS (dossier consignes_travaux)
+## CRITÈRES D'ÉVALUATION - GRILLE D'ÉVALUATION : voir fichier pdf dans équipe TEAMS (dossier consignes_travaux)
 - Contextualisation de l'oeuvre et de l'expérience
 - Description de l'oeuvre et de l'expérience
 - Justification de l'appréciation
