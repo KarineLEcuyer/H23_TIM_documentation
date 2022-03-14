@@ -1,4 +1,4 @@
-# CONSIGNES TRAVAIL 1A ET TRAVAIL 1B (H22_TIM_portfolio_consignes)
+# CONSIGNES TRAVAIL 1A ET TRAVAIL 1B (portfolio)
 Consignes pour le **Travail 1 A** (extrait du portfolio - oeuvre et expérience de la BIAN) et le **Travail 1 B** (portfolio d'oeuvres et d'expériences multimédias)
 
 ## OBJECTIFS POURSUIVIS
