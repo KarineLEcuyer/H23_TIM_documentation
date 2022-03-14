@@ -33,7 +33,7 @@ Partager à vos collègues de classe l'oeuvre ou le dispositif multimdia que vou
 ## CRITÈRES D'ÉVALUATION - GRILLE D'ÉVALUATION : voir fichier excel dans équipe TEAMS (dossier consignes_travaux)
 - Contextualisation de l'oeuvre et de l'expérience
 - Description de l'oeuvre et de l'expérience
-- Justifications de l'appréciation
+- Justification de l'appréciation
 - Mise en relation avec d'autres expériences et oeuvres 
 - Structure de la présentation, clarté du propos, qualité du support visuel, terminologie 
 
