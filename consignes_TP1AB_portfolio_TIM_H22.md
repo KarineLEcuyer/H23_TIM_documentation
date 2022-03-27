@@ -15,9 +15,9 @@ Au fil de la session, vous ferez l'expérience de plusieurs oeuvres et productio
 **Documenter les oeuvres et expériences suivantes :**
 - [ ] 1 oeuvre de la BIAN (visite de groupe à Arsenal -> 9 ou 10 février) **= travail 1 A** 
 - [ ] Acqua Alta (oeuvre en réalité augmentée expérimentée en classe)
-- [ ] 1 des créations des étudiant.e.s TIM de 6e session
+- [ ] 1 des créations des étudiant.e.s TIM de 6e session + **rubrique dans la fiche technique qui reprend votre ordre de préférence (TP2) et justifier ordre après expérimentation**
 - [ ] 1 oeuvre expérimentée lors d'une visite individuelle hors classe (sujet de la communucation orale)
-- [ ] 1 expérience lors de la semaine des arts
+- [ ] 1 expérience lors de la semaine des arts -> **en remplacement de la fiche technique : compte-rendu et appréciation en 250 à 300 mots dans un fichier md (sans photos ni croquis) : intervenants, sujet de la présentation, technologies employées, particularités, éléments appréciés et justification**
 - [ ] autre exposition/oeuvre (détails à venir) -> 9 ou 10 mars Exposition : **Béchard Hudon - Configurations du sensible (Salle Alfred-Pellan)**
 
 **Créer une fiche technique pour chacune des oeuvres/expériences** 
