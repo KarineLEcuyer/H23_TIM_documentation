@@ -1,5 +1,8 @@
-# CONSIGNES TRAVAIL 1A ET TRAVAIL 1B (portfolio)
+# CONSIGNES TRAVAIL 1A ET TRAVAIL 1B (portfolio) 
 Consignes pour le **Travail 1 A** (extrait du portfolio - oeuvre et expérience de la BIAN) et le **Travail 1 B** (portfolio d'oeuvres et d'expériences multimédias)
+## DERNIÈRES MISES À JOUR : 18 AVRIL 2022
+**MODIFICATIONS : VOIR DATE DE REMISE + CE QUI EST ATTENDU**
+
 
 ## OBJECTIFS POURSUIVIS
 - [ ] Effectuer la recherche documentaire : appliquer une méthode de travail, utiliser des sources d'informations utiles à la recherche, sélectionner les informations à répertorier
@@ -14,7 +17,7 @@ Au fil de la session, vous ferez l'expérience de plusieurs oeuvres et productio
 ## CE QUI EST ATTENDU
 **Documenter les oeuvres et expériences suivantes :**
 - [ ] 1 oeuvre de la BIAN (visite de groupe à Arsenal -> 9 ou 10 février) **= travail 1 A** 
-- [ ] Acqua Alta (oeuvre en réalité augmentée expérimentée en classe)
+- [ ] ~~Acqua Alta (oeuvre en réalité augmentée expérimentée en classe)~~
 - [ ] 1 des créations des étudiant.e.s TIM de 6e session + **La fiche technique comprend une rubrique supplémentaire qui revient sur votre ordre de préférence (TP2) et justifie votre ordre de préférence actuel, après expérimentation**
 - [ ] 1 oeuvre expérimentée lors d'une visite individuelle hors classe (sujet de la communucation orale)
 - [ ] 1 expérience lors de la semaine des arts -> **en remplacement de la fiche technique : compte-rendu et appréciation en 250 à 300 mots dans un fichier md (sans photos ni croquis) : intervenants, sujet de la présentation, technologies employées, particularités, éléments appréciés et justification**
@@ -75,7 +78,7 @@ Vous devrez créer une fiche qui vous permettra de présenter en détails l'oeuv
 **Travail 1B** : Portfolio d'oeuvres et d'expériences multimédias **30%**
 - [ ] Remettre le lien vers le portfolio complet (détails de remise à venir)
 - [ ] L'évaluation portera sur l'ensemble du portfolio, y compris la version révisée du Travail 1A
-- À remettre au **DÉBUT DU COURS SEMAINE 13** (tout *commit* effectué après le moment indiqué pour la remise sera interprété comme un retard)
+- À remettre au **~~DÉBUT DU COURS SEMAINE 13~~ 28 avril avant minuit (groupe du jeudi), 4 mai avant minuit (groupes du mercredi)** (tout *commit* effectué après le moment indiqué pour la remise sera interprété comme un retard)
 
 ## CRITÈRES D'ÉVALUATION - GRILLE D'ÉVALUATION : voir grilles d'évaluation détaillées dans l'équipe TEAMS du cours (dossier consignes_travaux)
 - Exhaustivité des informations répertoriées
