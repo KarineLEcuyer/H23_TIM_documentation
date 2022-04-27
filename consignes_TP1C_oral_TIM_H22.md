@@ -15,6 +15,8 @@ Partager à vos collègues de classe l'oeuvre ou le dispositif multimdia que vou
 
 **Un plan de votre présentation orale intégré à votre portfolio (plan_oral.md) qui respectera la structure suivante**:
 
+*Ce plan ne sera pas partagé à vos collègues, mais sera utilisé par votre professeure pour l'évaluation*
+
 *Introduction* :
 - [ ] Quel est l'objectif de votre communication (sujet posé = présentation oeuvre + expérience)
 - [ ] Quels aspects seront abordés ? (sujet divisé = les différents points du développement)
