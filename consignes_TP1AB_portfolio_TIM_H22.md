@@ -78,7 +78,7 @@ Vous devrez créer une fiche qui vous permettra de présenter en détails l'oeuv
 **Travail 1B** : Portfolio d'oeuvres et d'expériences multimédias **30%**
 - [ ] Remettre le lien vers le portfolio complet (valider le lien dans le tableau Excel - voir Wiki du cours dans Teams)
 - [ ] L'évaluation portera sur l'ensemble du portfolio, y compris la version révisée du Travail 1A (pour celles et ceux qui devaient revoir la structure du *Repository*)
-- À remettre ~~au DÉBUT DU COURS SEMAINE 13~~ **2 mai avant minuit (groupe du jeudi), 6 mai avant minuit (groupes du mercredi)** (tout *commit* effectué après le moment indiqué pour la remise sera interprété comme un retard)
+- À remettre ~~au DÉBUT DU COURS SEMAINE 13~~ **1er mai avant minuit (groupe du jeudi), 6 mai avant minuit (groupes du mercredi)** (tout *commit* effectué après le moment indiqué pour la remise sera interprété comme un retard)
 
 ## CRITÈRES D'ÉVALUATION - GRILLE D'ÉVALUATION : voir grilles d'évaluation détaillées dans l'équipe TEAMS du cours (dossier consignes_travaux)
 - Exhaustivité des informations répertoriées
