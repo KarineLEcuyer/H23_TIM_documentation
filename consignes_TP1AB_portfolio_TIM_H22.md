@@ -19,7 +19,7 @@ Au fil de la session, vous ferez l'expérience de plusieurs oeuvres et productio
 - [ ] 1 oeuvre de la BIAN (visite de groupe à Arsenal -> 9 ou 10 février) **= travail 1 A** 
 - [ ] ~~Acqua Alta (oeuvre en réalité augmentée expérimentée en classe)~~
 - [ ] 1 des créations des étudiant.e.s TIM de 6e session + **La fiche technique comprend une rubrique supplémentaire qui revient sur votre ordre de préférence (TP2) et justifie votre ordre de préférence actuel, après expérimentation**
-- [ ] 1 oeuvre expérimentée lors d'une visite individuelle hors classe (sujet de la communication orale)
+- [ ] 1 oeuvre expérimentée lors d'une visite individuelle hors classe (sujet de la communication orale - voir TP1C - **n'oubliez pas votre plan_oral.md**)
 - [ ] 1 expérience lors de la semaine des arts -> **en remplacement de la fiche technique : compte-rendu et appréciation en 250 à 300 mots dans un fichier md (sans photos ni croquis) : intervenants, sujet de la présentation, technologies employées, particularités, éléments appréciés et justification**
 - [ ] autre exposition/oeuvre (détails à venir) -> 9 ou 10 mars Exposition : **Béchard Hudon - Configurations du sensible (Salle Alfred-Pellan)**
 
@@ -78,7 +78,7 @@ Vous devrez créer une fiche qui vous permettra de présenter en détails l'oeuv
 **Travail 1B** : Portfolio d'oeuvres et d'expériences multimédias **30%**
 - [ ] Remettre le lien vers le portfolio complet (valider le lien dans le tableau Excel - voir Wiki du cours dans Teams)
 - [ ] L'évaluation portera sur l'ensemble du portfolio, y compris la version révisée du Travail 1A (pour celles et ceux qui devaient revoir la structure du *Repository*)
-- À remettre ~~au DÉBUT DU COURS SEMAINE 13~~ **28 avril avant minuit (groupe du jeudi), 4 mai avant minuit (groupes du mercredi)** (tout *commit* effectué après le moment indiqué pour la remise sera interprété comme un retard)
+- À remettre ~~au DÉBUT DU COURS SEMAINE 13~~ **2 mai avant minuit (groupe du jeudi), 6 mai avant minuit (groupes du mercredi)** (tout *commit* effectué après le moment indiqué pour la remise sera interprété comme un retard)
 
 ## CRITÈRES D'ÉVALUATION - GRILLE D'ÉVALUATION : voir grilles d'évaluation détaillées dans l'équipe TEAMS du cours (dossier consignes_travaux)
 - Exhaustivité des informations répertoriées
