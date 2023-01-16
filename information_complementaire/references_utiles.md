@@ -6,7 +6,7 @@
 - Cone, Mark, *The Markdown Guid e*, 2022, 60 p. --> disponible dans le dossier documents_reference de l'équipe TEAMS du cours. ![couverture_guide_markdown](medias/CONE_Markdown_Guide_couverture.png)
 
 ### Exemples de documentation
-- [Projets de l'artiste Rafael Lozano-Hemmer](https://www.lozano-hemmer.com/projects.php) : la majorité présente le [manuel de l'oeuvre](https://www.lozano-hemmer.com/sway.php/) 
+- [Projets de l'artiste Rafael Lozano-Hemmer](https://www.lozano-hemmer.com/projects.php) : la majorité présente le manuel de l'oeuvre, par exemple [Sway](https://www.lozano-hemmer.com/texts/manuals/sway_manual.pdf)
 - [Exemples d'utilisation de GitHub par les finissant.e.s TIM de 2021](https://tim-montmorency.com/2021/)
 - [Exemples d'utilisation de GitHub *en cours* par les finissant.e.s TIM de 2022](https://tim-montmorency.com/2022/)
 - [Exemple de documentation pour un bouton d'interactivité par Guillaume Arsenault](https://gitlab.com/gllmar/dm-ethbtn)
