@@ -10,4 +10,4 @@
 - [Exemples d'utilisation de GitHub par les finissant.e.s TIM de 2021](https://tim-montmorency.com/2021/)
 - [Exemples d'utilisation de GitHub *en cours* par les finissant.e.s TIM de 2022](https://tim-montmorency.com/2022/)
 - [Exemple de documentation pour un bouton d'interactivité par Guillaume Arsenault](https://gitlab.com/gllmar/dm-ethbtn)
-- [Exemple de fiche technique de l'oeuvre LIMINAL](http://patenteux.com/wp/portfolio/liminal-tech-sheet-en/)
+- [Exemple de fiche technique de l'oeuvre LIMINAL](http://patenteux.com/wp/portfolio/liminal-tech-sheet-en/), oeuvre de Louis-Philippe Rondeau
