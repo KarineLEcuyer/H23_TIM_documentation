@@ -1,1 +1,2 @@
-Dossier dans lequel seront déposés des fichiers offrant de l'information complémentaire pour réaliser les travaux.
+Le dossier *information_complementaire* présente des documents pour rappeler comment :
+- 
