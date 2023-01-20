@@ -1,2 +1,2 @@
-Le dossier *information_complementaire* présente des documents pour rappeler comment :
+Ce dossier présente des documents pour rappeler comment :
 - 
