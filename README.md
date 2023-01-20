@@ -8,5 +8,5 @@ Ce répertoire contient les **consignes des travaux** du cours Documentation d'u
 
 - 
 
-### Le dossier **information_complementaire** présente des documents pour savoir comment :
+### Le dossier *information_complementaire* présente des documents pour savoir comment :
 - 
