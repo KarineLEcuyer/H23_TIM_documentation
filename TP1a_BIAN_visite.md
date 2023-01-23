@@ -1,4 +1,4 @@
-# ÉTAPE 1 DU TRAVAIL 1A : VISITE ET EXPÉRIENCE DE LA 6e BIENNALE D'ART NUMÉRIQUE (BIAN) 
+# ÉTAPE 1 DU TRAVAIL 1A : VISITE ET EXPÉRIENCE DE LA 6e BIENNALE INTERNATIONALE D'ART NUMÉRIQUE (BIAN) 
 ## TRAVAIL 1A BIAN – extrait de la banque d’inspirations d’œuvres et de dispositifs multimédias en exposition (Répertoire GitHub) 20% (semaine 5)
 
 
