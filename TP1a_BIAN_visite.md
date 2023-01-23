@@ -25,7 +25,7 @@ Votre banque d'inspirations, organisé en répertoire Github (*repository*) rass
 | Lieu de mise en exposition    | Vous devant l'entrée de l'édifice| 
 | Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)    | N/A | 
 | Date de votre visite    | N/A           | 
-| Titre de l'oeuvre ou nom du dispositif | Vue d'ensemble de l'oeuvre ou du dispositif  | 
+| Titre de l'oeuvre  | Vue d'ensemble de l'oeuvre ou du dispositif  | 
 | Nom de l'artiste    | Cartel         | 
 | Année de réalisation     |   N/A        | 
 | Description de l'oeuvre ou du dispositif   | Cartel + diverses vues          | 
