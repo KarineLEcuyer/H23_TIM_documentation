@@ -1,4 +1,7 @@
 # Karine L'Ecuyer
+![photo de moi](photo_KL_Lozano-Hemmer_BIAN_20230110.jpg)
+
+Photo prise devant l'oeuvre *Bilateral Time Slicer* de Rafael Lozano-Hemmer, BIAN, janvier 2023
 
 ## Intérêts dans le domaine du multimédia
 J'aime particulièrement l'art numérique, notamment les oeuvres qui sont à la fois immersives et interactives comme en produit l'artiste Rafael Lozano-Hemmer. 
