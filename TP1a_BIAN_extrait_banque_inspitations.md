@@ -2,7 +2,7 @@
 ## TRAVAIL 1A BIAN – extrait de la banque d’inspirations d’œuvres et de dispositifs multimédias en exposition (Répertoire GitHub) 20% (semaine 5)
 
 
-# LA BANQUE D'INSPIRATION
+# LA BANQUE D'INSPIRATIONS
 Aller à la rencontre d’œuvres et de dispositifs multimédias en exposition permet de se constituer une véritable banque d’inspirations pour la conception de ses projets. Au fil de la session, vous ferez l'expérience de plusieurs oeuvres et productions multimédias. Vous en documenterez la mise en espace, les composantes et l’expérience vécue. Les documents créés pour la mise en exposition de ces œuvres et dispositifs seront analysés pour bien compléter l'information consignée. Ces données recueillies seront rigoureusement organisées pour permettre une sauvegarde et une transmission efficaces de l’information. 
 Votre banque d'inspirations, organisé en répertoire Github (*repository*) rassemblera les informations sur ces oeuvres et dispositifs ainsi que sur votre expérience. La réalisation de cette banque d'inspirations est une introduction à la production de documentation plus complète de vos futures créations multimédias.  
 
