@@ -12,10 +12,14 @@ Votre banque d'inspirations, organisé en répertoire Github (*repository*) rass
 
 
 ## MÉTHODE
+- [ ] Visiter en groupe la Biennale internationale d'art numérique lors du cours de la semaine 2
+- [ ] Observer, expérimenter, interagir avec (lorsque permis) les diverses oeuvres de l'exposition
+- [ ] **Sélectionner une oeuvre d'art numérique** 
 - [ ] Prendre des notes
 - [ ] Faire des photographies
 - [ ] Faire des croquis
 - [ ] Faire de courts vidéos
+- [ ] Poser des questions à la professeure ou à la médiatrice
 
 ### NOTES ET PHOTOGRAPHIES LORS DE VOTRE VISITE
 
@@ -42,7 +46,7 @@ Votre banque d'inspirations, organisé en répertoire Github (*repository*) rass
 **IMPORTANT : l'exhaustivité des informations est un critère d'évaluation de ce travail**
  
 ### DATE DE CRÉATION : 2023-01-23 
-### DERNIÈRE MISE À JOUR : 
+### DERNIÈRE MISE À JOUR : 2023-01-24
 
 
 
