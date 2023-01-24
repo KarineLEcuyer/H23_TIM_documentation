@@ -15,4 +15,4 @@ Ce répertoire contient les **consignes des travaux** du cours Documentation d'u
 
 Ce dossier contient également un document qui présente des **références utiles** pour la réalisation des travaux
 
-### Le dossier *semaine_01* contient les éléments de l'exercice *Fiche de présentation*
+### Le dossier *semaine_01* contient un exemple de l'exercice *Fiche de présentation*
