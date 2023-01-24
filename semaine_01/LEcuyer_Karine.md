@@ -5,6 +5,7 @@ Photo prise devant l'oeuvre *Bilateral Time Slicer* de Rafael Lozano-Hemmer, BIA
 
 ## Intérêts dans le domaine du multimédia
 J'aime particulièrement l'art numérique, notamment les oeuvres qui sont à la fois immersives et interactives comme en produit l'artiste Rafael Lozano-Hemmer. Voici d'ailleurs l'une de ses oeuvres, *Champ d'atmosphonie*, lors de l'exposition *Cercania* à Arsenal art contemporain en 2020.
+
 ![photo champ atmosphonie](photo_champ_atmosphonie_circania_20200906.jpg)
 
 
