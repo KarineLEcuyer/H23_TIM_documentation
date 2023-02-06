@@ -6,7 +6,8 @@ Ce répertoire contient les **consignes des travaux** du cours Documentation d'u
 
 ### Consignes
 
-- TP1A_BIAN_visite : Étape 1 du travail 1A : Visite et expérience de la 6e Biennale internationale d'art numérique (BIAN)
+- TP1A_etape_01_BIAN_visite : Étape 1 du travail 1A : Visite et expérience de la 6e Biennale internationale d'art numérique (BIAN)
+- TP1A_etape_02_BIAN_extrait_banque_inspirations : Étape 2 du travail 1A : BIAN – extrait de la banque d’inspirations d’œuvres et de dispositifs multimédias en exposition (Répertoire GitHub)
 
 ### Le dossier *information_complementaire* présente des documents pour rappeler comment :
 - créer un dossier dans un répertoite
