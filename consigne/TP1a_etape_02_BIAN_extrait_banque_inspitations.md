@@ -6,7 +6,7 @@
 Aller à la rencontre d’œuvres et de dispositifs multimédias en exposition permet de se constituer une véritable banque d’inspirations pour la conception de ses projets. Au fil de la session, vous ferez l'expérience de plusieurs oeuvres et productions multimédias. Vous en documenterez la mise en espace, les composantes et l’expérience vécue. Les documents créés pour la mise en exposition de ces œuvres et dispositifs seront analysés pour bien compléter l'information consignée. Ces données recueillies seront rigoureusement organisées pour permettre une sauvegarde et une transmission efficaces de l’information. 
 Votre banque d'inspirations, organisée en répertoire Github (*repository*) rassemblera les informations sur ces oeuvres et dispositifs ainsi que sur votre expérience. La réalisation de cette banque d'inspirations est une introduction à la production de documentation plus complète de vos futures créations multimédias.  
 
-## OBJECTIFS POURSUIVIS (à l'étape 2)
+## OBJECTIFS POURSUIVIS 
 - [ ] Compléter la recherche documentaire : appliquer une méthode de travail, utiliser des sources d'informations utiles à la recherche, sélectionner les informations à répertorier
 - [ ] Organiser le matériel multimédia : compiler le matériel, consigner l'information, organiser les données, réviser régulièrement son travail
 - [ ] Transmettre les résultats de la documentation : exploiter les méthodes de transmission de l'insformation, produire des rapports pertinents et explicites, communiquer efficacement ses idées
