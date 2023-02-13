@@ -25,7 +25,8 @@ De plus, vous devrez :
 **Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies lorsque cela est pertinent et en créant des fichiers agréables à lire, dans lesquels on repère facilement l'information**
 
 ## CRITÈRES D'ÉVALUATION 
-Voir *TP1b_banque_inspirations.md* dans le dossier *consigne*
+Voir *TP1b_banque_inspirations.md* dans le dossier *consigne* 
+
 La grille d'évaluation est disponible dans l'équipe TEAMS (dossiers consignes_travaux)
 
 
