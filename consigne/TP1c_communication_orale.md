@@ -8,7 +8,7 @@ Semaines 14-15 (selon horaire déterminé à la semaine 12)	**20%**
 - [ ] Transmettre les résultats de la documentation : exploiter les méthodes de transmission de l'insformation, produire des rapports pertinents et explicites, communiquer efficacement ses idées
 
 ## LA COMMUNICATION ORALE
-Partager à vos collègues de classe l'oeuvre ou le dispositif multimédia que vous avez expérimenté lors de votre visite individuelle. Le support visuel sera votre fiche technique de cette oeuvre et expérience dans votre portfolio.
+Partager à vos collègues de classe l'oeuvre ou le dispositif multimédia que vous avez expérimenté lors de votre visite individuelle. Le support visuel sera votre fiche de présentation de cette oeuvre ou de ce dispositif et de votre expérience dans votre banque d'inspirations.
 
 ## CE QUI EST ATTENDU
 **Une présentation orale de 6 à 8 minutes appuyée visuellement par votre fiche de présentation (banque d'inspirations)**
