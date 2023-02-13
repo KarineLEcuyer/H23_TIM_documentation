@@ -32,28 +32,28 @@ Partager à vos collègues de classe l'oeuvre ou le dispositif multimédia que v
 ## PLAN DE LA PRÉSENTATION
 **Un plan de votre présentation orale sera intégré à votre banque d'inspirations, dans le dossier de votre visite individuelle (plan_oral.md). Il respectera la structure suivante**:
 
-*Ce plan ne sera pas partagé à vos collègues, mais sera utilisé par votre professeure pour l'évaluation*
+*Ce plan ne sera pas partagé à vos collègues. Il vous servira d'appui personnel lors de la présentation et sera utilisé par votre professeure pour l'évaluation*
 
 *Introduction* :
 - [ ] Quel est l'objectif de votre communication (sujet posé = présentation oeuvre ou du dispositif + expérience)
 - [ ] Quels aspects seront abordés ? (sujet divisé = annoncer les différents points du développement)
 
 *Développement* :
-- [ ] Informations sur l'oeuvre et le lieu d'exposition (Titre, Nom de l'artiste, Année de réalisation, Nom de l'exposition ou de l'événement, Type d'exposition Lieu de mise en exposition + Infos sur le lieu, Date de votre visite)
-- [ ] Présentation détaillée de l'oeuvre (description, type d'installation, fonction, mise en espace, composantes, éléments)
+- [ ] Informations sur l'oeuvre ou le dispositif multimémia et le lieu d'exposition (Titre, Nom de l'artiste ou de la firme, Année de réalisation, Nom de l'exposition ou de l'événement, Type d'exposition, Lieu de mise en exposition + Infos sur le lieu, Date de votre visite)
+- [ ] Présentation détaillée de l'oeuvre ou du dispositif multimédia (description, type d'installation, fonction, mise en espace, composantes, éléments)
 - [ ] Expérience vécue (Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité/contemplation/immersion/fonction, des gestes à poser, etc)
-- [ ] Appréciation critique et **justifications** (Ce qui vous a plu, vous a donné des idées + Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement)
-- [ ] **Liens avec autres oeuvres et expériences multimédias découvertes cette session**
+- [ ] Appréciation critique et **justifications** (Ce qui vous a plu, vous a donné des idées + Aspects que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement)
+- [ ] **Liens avec autres oeuvres, dispositifs et expériences multimédias découverts cette session**
 
 *Conclusion* :
 - [ ] Rappel des aspects présentés
-- [ ] Ouverture : élément inspirant retenu parmi toutes les oeuvres et expériences de la session
+- [ ] Ouverture : élément inspirant retenu parmi toutes les oeuvres, dispositfs et expériences de la session
 
 ## CRITÈRES D'ÉVALUATION - GRILLE D'ÉVALUATION : voir fichier dans équipe TEAMS (dossier consignes_travaux)
-- Contextualisation de l'oeuvre et de l'expérience
-- Description de l'oeuvre et de l'expérience
+- Contextualisation de l'oeuvre ou du dispositif et de l'expérience
+- Description de l'oeuvre ou du dispositif et de l'expérience
 - Justification de l'appréciation
-- Mise en relation avec d'autres expériences et oeuvres 
+- Mise en relation avec d'autres expériences, oeuvres ou dispositifs
 - Structure de la présentation, clarté du propos, qualité du support visuel, terminologie 
 
 ## RÉFÉRENCES UTILES
