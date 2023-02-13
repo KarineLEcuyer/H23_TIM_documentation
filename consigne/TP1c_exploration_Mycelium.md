@@ -16,7 +16,7 @@
 - le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets, avec la source)
 
 De plus, vous devrez :
-- identifier et indiquer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre projet (voir la [grille de cours du programme](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)
+- identifier et indiquer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre projet (voir la [grille de cours du programme](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/))
 - présenter une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
   *pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues*
 - ordonner les projets ordonnés selon votre préférence actuelle (1 = votre projet préféré), avec justification
@@ -40,9 +40,9 @@ Mycélium sera déployé en quelques stations disséminées entre la salle Andr�
 LES CRÉATIONS SONT ACTUELLEMENT RÉALISÉES DANS LE CADRE DU COURS *EXPÉRIENCE MULTIMÉDIA INTERACTIVE*, ENSEIGNÉS PAR GUILLAUME ARSENEAULT ET DARYL HUBERT
 
 ### MISE EN CONTEXTE
-Le cours synthèse Expérience multimédia interactive vise la création et la présentation d’un projet multimédia interactif réalisé en équipe.
+Le cours synthèse *Expérience multimédia interactive* vise la création et la présentation d’un projet multimédia interactif réalisé en équipe.
 
-L’étudiante ou l’étudiant collaborera à l’élaboration d’un projet multimédia interactif, et ce de la conception jusqu’à la présentation du produit. Il aura l’occasion de mettre en pratique toutes les compétences acquises au cours de sa formation technique, notamment en programmation, en conception graphique, vidéo et sonore, de même qu’en gestion et en conception de projet. Ce cours est porteur de l’un des deux volets de l’épreuve synthèse du programme, soit la réalisation d’une   expérience interactive.
+L’étudiante ou l’étudiant collaborera à l’élaboration d’un projet multimédia interactif, et ce de la conception jusqu’à la présentation du produit. Il aura l’occasion de mettre en pratique toutes les compétences acquises au cours de sa formation technique, notamment en programmation, en conception graphique, vidéo et sonore, de même qu’en gestion et en conception de projet. Ce cours est porteur de l’un des deux volets de l’épreuve synthèse du programme, soit la réalisation d’une expérience interactive.
 
 L’étudiant devra ainsi contribuer à la réalisation d’une expérience interactive multimédia en équipe et produire un rapport visant à rendre compte de l’ensemble des étapes de la réalisation du produit et de son processus.
 
