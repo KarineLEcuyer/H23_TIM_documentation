@@ -35,7 +35,7 @@ Partager à vos collègues de classe l'oeuvre ou le dispositif multimédia que v
 *Ce plan ne sera pas partagé à vos collègues, mais sera utilisé par votre professeure pour l'évaluation*
 
 *Introduction* :
-- [ ] Quel est l'objectif de votre communication (sujet posé = présentation oeuvre + expérience)
+- [ ] Quel est l'objectif de votre communication (sujet posé = présentation oeuvre ou du dispositif + expérience)
 - [ ] Quels aspects seront abordés ? (sujet divisé = annoncer les différents points du développement)
 
 *Développement* :
