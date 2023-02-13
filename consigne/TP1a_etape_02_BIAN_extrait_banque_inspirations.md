@@ -59,4 +59,4 @@ Vous devrez créer une fiche qui vous permettra de présenter en détails l'oeuv
 **TRAVAIL À REMETTRE AU DÉBUT DU COURS 5 - (tout *commit* effectué après le moment indiqué pour la remise sera interprété comme un retard)**
  
 ### DATE DE CRÉATION : 2023-02-06
-### DERNIÈRE MISE À JOUR : 
+### DERNIÈRE MISE À JOUR : 2023-02-07
