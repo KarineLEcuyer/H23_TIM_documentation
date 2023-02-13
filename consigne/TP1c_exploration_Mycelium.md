@@ -4,8 +4,8 @@
 - Voir *TP1b_banque_inspirations.md* dans le dossier *consigne*
 
 ## MÉTHODE
-**Explorer les projets en création des 3e année grâce :**
-- [ ] au visionnement de la présentation de leur projet en création 
+**Explorer les projets en création des étudiant.e.s de 3e année en TIM grâce :**
+- [ ] [au visionnement de la présentation de leurs projet en création](https://tim-montmorency.com/2023/) et à l'exploration de leur documentation de pré-production
 - [ ] à la visite des studios
 - [ ] à la rencontre avec des étudiant.e.s et professeurs impliqué.e.s dans le projet
 
