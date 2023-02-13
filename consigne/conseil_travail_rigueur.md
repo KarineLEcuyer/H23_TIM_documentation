@@ -1,7 +1,7 @@
 ## CONSEILS POUR UN TRAVAIL RIGOUREUX
 À considérer pour bien réussir vos travaux
 
-- **RELIRE LA CONSIGNE POUR S'ASSURER DE S'Y CONFORMER** 
+- **RELIRE LA CONSIGNE POUR S'ASSURER DE S'Y CONFORMER** et autoévaluer son travail à partir de la grille d'évaluation partagée par la professeure 
 - Faire les modifications nécessaires pour résoudre les erreurs repérées ou intégrer les suggestions faites par la professeure lors des rétroactions
 - **Se conformer aux règles de nommage**
 - Bien **structurer** le *repository*
