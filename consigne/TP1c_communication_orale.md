@@ -58,3 +58,6 @@ Partager à vos collègues de classe l'oeuvre ou le dispositif multimédia que v
 
 ## RÉFÉRENCES UTILES
 Voir les documents «communiquer_efficacement...» dans le dossier «lectures» dans l'équipe Teams du cours. 
+
+### DATE DE CRÉATION : 2023-02-13
+### DERNIÈRE MISE À JOUR : 
