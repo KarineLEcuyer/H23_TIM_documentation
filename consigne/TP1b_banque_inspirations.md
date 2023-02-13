@@ -1,4 +1,7 @@
-# CONSIGNES TRAVAIL 1B - BANQUE D'INSPIRATIONS D'OEUVRES ET DE DISPOSITIFS MULTIMÉDIAS EN EXPOSITION (répertoire GitHub) 35% (semaine 13, fin du cours) 
+# CONSIGNES TRAVAIL 1B
+# BANQUE D'INSPIRATIONS D'OEUVRES ET DE DISPOSITIFS MULTIMÉDIAS EN EXPOSITION (répertoire GitHub) 35% 
+## À remettre à la semaine 13, fin du cours
+
 
 # LA BANQUE D'INSPIRATIONS
 Aller à la rencontre d’œuvres et de dispositifs multimédias en exposition permet de se constituer une véritable banque d’inspirations pour la conception de ses projets. Au fil de la session, vous ferez l'expérience de plusieurs oeuvres et productions multimédias. Vous en documenterez la mise en espace, les composantes et l’expérience vécue. Les documents créés pour la mise en exposition de ces œuvres et dispositifs seront analysés pour bien compléter l'information consignée. Ces données recueillies seront rigoureusement organisées pour permettre une sauvegarde et une transmission efficaces de l’information. 
@@ -39,7 +42,8 @@ Votre banque d'inspirations, organisée en répertoire Github (*repository*) ras
 ## INFORMATIONS PRÉSENTÉES
 Tant pour la création des dossiers et fichiers que pour le contenu développé, les **informations** présentées devront être **claires**, la **qualité de la langue** devra être **soignée** et les différents **éléments** intégrés devront être **bien nommés et organisés**.
 
-### NOTES ET PHOTOGRAPHIES À INTÉGRER DANS LES FICHES DE PRÉSENTATION (BIAN, Mycélium, visite individuelle, visite de groupe)
+### NOTES ET PHOTOGRAPHIES À INTÉGRER DANS LES FICHES DE PRÉSENTATION 
+### (BIAN, Mycélium, visite individuelle, visite de groupe)
 
 |:pencil2: Information recherchée  | :camera: Appui visuel à intégrer | Détails supplémentaires |
 | ---     | ---             | --- |
@@ -48,15 +52,15 @@ Tant pour la création des dossiers et fichiers que pour le contenu développé,
 | Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)    |  |  |
 | Date de votre visite    |            |  |
 | Titre de l'oeuvre ou du dispositif | Vue d'ensemble de l'oeuvre ou du dispositif  |  |
-| Nom de l'artiste ou de la firme    |         |  |
+| Nom de l'artiste ou de la firme    |         | Pour le nom de la firme, voir le panneau de crédits de l'exposition |
 | Année de réalisation     |          |  |
 | Description de l'oeuvre ou du dispositif  | Cartel + diverses vues          | À composer ou reprendre la descritpion offerte sur le site de l'artiste ou sur le cartel en **indiquant bien sa source** |
 | Type d'installation (contemplative, immersive, interactive) | Vue *parlante* - vidéo ou photo qui nous permet de bien comprendre le type d'installation             | --- |
-| Fonction du dispositif multimédia (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel    | Vue *parlante* - vidéo ou photo qui nous permet de bien comprendre la fonction du dispositif multimédia         |  |
-| Mise en espace   | Vue d'ensemble de la pièce + croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension, avec dimensions)        | Texte qui permet de comprendre comment l'oeuvre est mise en espace : dans quelle pièce, sur quel mur, quel est l'espace occupé, comment est-elle disposée... ?  |
-| Composantes et techniques     | Parties composantes de l'oeuvre (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires) | Liste des composantes et techniques utilisées (ce que l'artiste a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer) |
-| Éléments nécessaires à la mise en exposition   | Éléments de mise en exposition (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires) | Liste des éléments nécessaires à la mise en exposition (ce que le musée a mis en place pour que l'oeuvre soit exposée (bancs, cache-fil, crochets, sacs de sable, câbles, herses, projecteurs...)   |
-| Expérience vécue     | Posture du visiteur ou gestes de l'interacteur :movie_camera: possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci        | Texte qui explique ce qui est attendu du visiteur ou de l'interacteur. Où et comment se positionne-t-il/elle? Que faut-il faire? Comment l'oeuvre réagit-elle (si interactive)? Plus personnellement, description de l'expérience que l'oeuvre vous a fait vivre. |
+| Fonction du dispositif multimédia (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)    | Vue *parlante* - vidéo ou photo qui nous permet de bien comprendre la fonction du dispositif multimédia         |  |
+| Mise en espace   | Vue d'ensemble de la pièce + croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension, avec dimensions)        | Texte qui permet de comprendre comment l'oeuvre ou le dispositif est mis en espace : dans quelle pièce, sur quel mur, quel est l'espace occupé, comment est-ce disposé... ?  |
+| Composantes et techniques     | Parties composantes de l'oeuvre ou du dispositif (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires) | Liste des composantes et techniques utilisées (ce que l'artiste ou la firme a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer) |
+| Éléments nécessaires à la mise en exposition   | Éléments de mise en exposition (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires) | Liste des éléments nécessaires à la mise en exposition (ce que le musée a mis en place pour que l'oeuvre ou le dispositif soit exposé (bancs, cache-fil, crochets, sacs de sable, câbles, herses, projecteurs...)   |
+| Expérience vécue     | Posture du visiteur ou gestes de l'interacteur :movie_camera: possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci        | Texte qui explique ce qui est attendu du visiteur ou de l'interacteur. Où et comment se positionne-t-il/elle? Que faut-il faire? Comment réagit l'oeuvre ou le dispositif (si interactivité)? Plus personnellement, description de l'expérience que l'oeuvre ou le dispositif vous a fait vivre. |
 | :heart: Ce qui vous a plu, vous a donné des idées    | Éléments pertinents       | Texte à rédiger qui présente un ou des aspects inspirants, avec **justifications détaillées** (pourquoi est-ce que cela vous a plus/ vous a donné des idées ? |
 | :thinking: Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement    | Éléments pertinents      |Texte à rédiger qui présente un ou des aspects que vous ne retiendriez pas ou feriez autrement, avec **justifications détaillées** (pourquoi? comment?)  | 
 | Références     |          |hyperliens vers les sites consultés  |
