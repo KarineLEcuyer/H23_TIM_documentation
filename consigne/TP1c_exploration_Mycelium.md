@@ -9,7 +9,7 @@
 - [ ] à la visite des studios
 - [ ] à la rencontre avec des étudiant.e.s et professeurs impliqué.e.s dans le projet
 
-**Créer un fichier .md qui nous permettra de découvrir ces projets en création en y indiquant: 
+**Créer un fichier .md qui nous permettra de découvrir ces projets en création en y indiquant:**
 - le titre de chacun des projets ainsi que ses créateurs et créatrices
 - le lien de chacun avec le thème *Mycélium*
 - l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
