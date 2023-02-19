@@ -24,7 +24,10 @@ Tous les fichiers des photographies sont en 72 ppp.
 
 **500 pixels x 375 pixels**
 
-![photo en 500x375](BIAN_Slow_Motion_Car_Crash_500_375.JPG)
+Il est possible de mettre 2 photos l'une à côté de l'autre en inscrivant la syntaxe d'intégration sur la même ligne. Il faut par contre que les photos soient de dimentsions adéquates pour que les 2 puissent être placées côte-à-côte.
+
+![photo en 500x375](BIAN_Slow_Motion_Car_Crash_500_375.JPG) ![photo en 500x375](BIAN_Slow_Motion_Car_Crash_500_375.JPG)
+
 
 
 
