@@ -1,7 +1,7 @@
 # Exploration des projets en création par les étudiant.e.s de 3e année en TIM 
 
 ## OBJECTIFS POURSUIVIS 
-- Voir *TP1b_banque_inspirations.md* dans le dossier *consigne*
+- Voir [*TP1b_banque_inspirations.md* dans le dossier *consigne*](TP1b_banque_inspirations.md)
 
 ## MÉTHODE
 **Explorer les projets en création des étudiant.e.s de 3e année en TIM grâce :**
