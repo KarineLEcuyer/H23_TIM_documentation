@@ -11,3 +11,5 @@
 - Photographies : indiquer ce que l'on voit - donner un titre
 - Réduire les photographies (dimensions) avant leur stockage dans le dossier du répertoire
 - Pour toute citation intégrale, mettre l'extrait entre « »
+
+Les croquis (absents de ce travail) nous aideront à mieux comprendre la disposition dans l'exposition et les dimensions de l'œuvre
