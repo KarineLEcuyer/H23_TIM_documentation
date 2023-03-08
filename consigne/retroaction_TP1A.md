@@ -1,5 +1,7 @@
 # Rétroaction à la suite de l'évaluation du TP1A
 
+Les croquis (absents de ce travail) nous aideraiet à mieux comprendre la disposition dans l'exposition et les dimensions de l'œuvre
+
 - Bien relire la consigne et appliquer une méthode de cueillette d'informations lors des visites qui permettra, grâce aux notes, photos, vidéos et autres références, de compléter la fiche avec toutes les informations requises
 
 - Lire les commentaires de la professeure dans la grille d'évaluation individuelle de votre TP1A et les intégrer dans la réalisation de votre TP1B.
@@ -10,8 +12,9 @@
 - Une numérisation (scan) au lieu d'une photo pour des pages de document offre un meilleur rendu (ex. : extrait du catalogue, cartel)
 - Photographies : indiquer ce que l'on voit - donner un titre
 - Réduire les photographies (dimensions) avant leur stockage dans le dossier du répertoire
-- Pour toute citation intégrale, mettre l'extrait entre « ». Voici, tiré de la page *Basic Syntax* du site [*Markdown Guide*](https://www.markdownguide.org/basic-syntax/), la syntaxe pour indiquer les citations : ![quote](H23_TIM_documentation/information_complementaire/medias/markdown_syntax_quote.png)
+- Pour toute citation intégrale, mettre l'extrait entre « ». Voici, tiré de la page *Basic Syntax* du site [*Markdown Guide*](https://www.markdownguide.org/basic-syntax/), la syntaxe pour indiquer les citations : ![quote](/information_complementaire/medias/markdown_syntax_quote.png)
+- 
 - 
 - 
 
-Les croquis (absents de ce travail) nous aideraiet à mieux comprendre la disposition dans l'exposition et les dimensions de l'œuvre
+
