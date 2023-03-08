@@ -6,7 +6,7 @@ Puis, en utilisant la syntaxe ci-bas, vous intégrerez miniature générée par 
 
 Syntaxe :
 
-[![TEXTE QUE VOUS DÉSIREZ ICI](http://img.youtube.com/vi/**ID de votre vidéo ICI**/0.jpg)](http://www.youtube.com/watch?v= **ID de votre vidéo ICI**).
+[![TEXTE QUE VOUS DÉSIREZ ICI](http://img.youtube.com/vi/**ID de votre vidéo ICI**/0.jpg)](http://www.youtube.com/watch?v=**ID de votre vidéo ICI**).
 
 L'ID de la vidéo, c'est ce qui apparait après *watch?v=* dans l'URL.
 
