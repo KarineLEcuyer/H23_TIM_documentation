@@ -1,6 +1,6 @@
 # Rétroaction à la suite de l'évaluation du TP1A
 
-Les croquis (absents de ce travail) nous aideraiet à mieux comprendre la disposition dans l'exposition et les dimensions de l'œuvre
+Les croquis (absents de ce travail) nous aideraient à mieux comprendre la disposition dans l'exposition et les dimensions de l'œuvre
 
 - Bien relire la consigne et appliquer une méthode de cueillette d'informations lors des visites qui permettra, grâce aux notes, photos, vidéos et autres références, de compléter la fiche avec toutes les informations requises
 
