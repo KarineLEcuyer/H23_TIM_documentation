@@ -12,6 +12,7 @@ Les croquis (absents de ce travail) nous aideraiet à mieux comprendre la dispos
 - Une numérisation (scan) au lieu d'une photo pour des pages de document offre un meilleur rendu (ex. : extrait du catalogue, cartel)
 - Photographies : indiquer ce que l'on voit - donner un titre
 - Réduire les photographies (dimensions) avant leur stockage dans le dossier du répertoire
+- Bien élaborer le propos : écrire comme si la personne qui vous lira **n'a pas vu** l'oeuvre ou le dispositif. Bien expliquer, tant au niveau de la description, de la mise en espace que de l'expérience du visiteur ou de l'interacteur. Puis, pour les aspects de votre vécu, il faut élaborer clairement votre pensée, mettez-y des détails et justifiez chacun des aspects que vous commentez. Accompagnez bien le lecteur, la lectrice pour lui permettre de saisir facilement.
 - Pour toute citation intégrale, mettre l'extrait entre « ». Voici, tiré de la page *Basic Syntax* du site [*Markdown Guide*](https://www.markdownguide.org/basic-syntax/), la syntaxe pour indiquer les citations : ![quote](/information_complementaire/medias/markdown_syntax_quote.png)
 - 
 - 
