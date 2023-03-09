@@ -19,6 +19,6 @@ Ce répertoire contient les **consignes des travaux** du cours Documentation d'u
 - insérer une photographie 
 - intégrer une vidéo (lien externe Youtube)
 
-Ce dossier contient également un document qui présente des **références utiles** pour la réalisation des travaux ainsi qu'un dossier qui de **tests de dimensions pour l'intégration de photographies**.
+Ce dossier contient également un document qui présente des **références utiles** pour la réalisation des travaux ainsi qu'un dossier de **tests de dimensions pour l'intégration de photographies**.
 
 ### Le dossier *semaine_01* contient un exemple de l'exercice *Fiche de présentation*
