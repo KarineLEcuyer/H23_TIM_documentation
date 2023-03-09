@@ -13,6 +13,8 @@
 - Photographies : indiquer ce que l'on voit - donner un titre, inscrire les crédits
 - Réduire les photographies (dimensions) avant leur stockage dans le dossier du répertoire (espace de stockage limité avec compte gratuit)
 
+- Bien soigner le **nommage** et l'**arborescence**![**arborescence**](/information_complementaire/medias/H23_TIM_exemple_arborescence.png)
+
 - Pour toute citation intégrale, mettre l'extrait entre « ». Voici, tiré de la page *Basic Syntax* du site [*Markdown Guide*](https://www.markdownguide.org/basic-syntax/), la syntaxe pour indiquer les citations : ![quote](/information_complementaire/medias/markdown_syntax_quote.png)
 
 
