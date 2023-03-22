@@ -8,7 +8,7 @@ Le travail d’une firme multimédia dans le monde muséal : possibilités du mu
 La logistique de gestion de collection et de mise en exposition de la production d'un artiste en art numérique
 
 # Ce qui est attendu 
-Un compte-rendu est un écrit objectif (donc qui rapporte des faits, des données) qui permet à une personne qui n'aurait pas assisté à l'événement dont il est question de comprendre ce qui a été présenté. 
+Un compte-rendu est d'abord un écrit objectif (donc qui rapporte des faits, des données) qui permet à une personne qui n'aurait pas assisté à l'événement dont il est question de comprendre ce qui a été présenté. 
 
 Il s'agira donc, dans un texte de 200-250 mots, de rendre compte de la conférence en partageant les grandes lignes de celles-ci. Vous devrez ordonner votre propos pour que la construction soit logique et reprenne le fil de ce qui a été présenté. 
 
