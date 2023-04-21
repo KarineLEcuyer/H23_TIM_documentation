@@ -10,6 +10,7 @@ Ce répertoire contient les **consignes des travaux** du cours Documentation d'u
 - [x] TP1A_etape_02_BIAN_extrait_banque_inspirations : Étape 2 du travail 1A : BIAN – extrait de la banque d’inspirations d’œuvres et de dispositifs multimédias en exposition (Répertoire GitHub) 20%
 - [ ] TP1b_banque_inspirations.md : CONSIGNES TRAVAIL 1B -BANQUE D'INSPIRATIONS D'OEUVRES ET DE DISPOSITIFS MULTIMÉDIAS EN EXPOSITION (répertoire GitHub) 35%
 - [x] TP1b_exploration_Mycelium.md : Exploration des projets en création par les étudiant.e.s de 3e année en TIM
+- [x] TP1b_precision_conference.md : Précisions sur le compte-rendu et appréciation des conférences
 - [ ] TP1c_communication_orale.md : Communication efficace de ses idées et de ses choix : présentation orale d’une œuvre ou d'un dispositif multimédia et de l’expérience vécue (visite individuelle) 20%
 - [ ] conseil_travail_rigueur.md : Conseils pour un travail rigoureux
 - [ ] retroaction_TP1A.md : Commentaires globaux à lire et intégrer pour un excellent TP1b
@@ -19,6 +20,6 @@ Ce répertoire contient les **consignes des travaux** du cours Documentation d'u
 - insérer une photographie 
 - intégrer une vidéo (lien externe Youtube)
 
-Ce dossier contient également un document qui présente des **références utiles** pour la réalisation des travaux ainsi qu'un dossier de **tests de dimensions pour l'intégration de photographies**.
+Ce dossier contient également un document qui présente des **références utiles** pour la réalisation des travaux ainsi qu'un dossier de **tests de dimensions pour l'intégration de photographies** qui présente également comment redimensionner_image.pdf et modifier_dimension_alignement.md.
 
 ### Le dossier *semaine_01* contient un exemple de l'exercice *Fiche de présentation*
