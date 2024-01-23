@@ -13,4 +13,3 @@ Il est d'ailleurs intéressant de lire les [réflexions de cet artiste sur les p
 ## Ce que j'aime d'enseigner la muséologie en TIM
 Permettre aux étudiant.e.s d'aiguiser leur regard sur les oeuvres et dispositifs multimédias en exposition et qu'ils et elles voient ainsi tous les petits éléments à soigner dans la mise en exposition pour une meilleure expérience des visiteurs. J'adore retrouver les étudiant.e.s en 3e année et vivre leur création de fin d'études. :heart: 
 
-[![TEXTE QUE VOUS DÉSIREZ ICI](chemin vers la capture d'écran que vous avez mise dans un dossier de votre répertoire)](adresse URL de la vidéo) 
